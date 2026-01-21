@@ -8,3 +8,5 @@ git push
 git pulll
 
 git merge
+
+skill
