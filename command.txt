@@ -1,3 +1,8 @@
 Java Compalination -> javac filename.java
 
 Java Run Command -> Java ClassName.
+
+git add
+git commit -m
+git push
+git pulll
