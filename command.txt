@@ -10,3 +10,5 @@ git pulll
 git merge
 
 skill
+
+git config --global user.name
