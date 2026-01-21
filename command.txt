@@ -6,3 +6,5 @@ git add
 git commit -m
 git push
 git pulll
+
+git config --global user.email
